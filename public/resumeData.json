@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Brett Bass",
+    "occupation": "UC San Diego Computer Scientist and Engineering Student",
+    "description": "I found my interest in computer science through restarting my education in community college. It was the courses I took in mathematics that guided me towards my love for problem solving. This was beginning of a snowball effect where I developed a strong passion towards engineering. A computer to me is my most powerful tool inwhich I can create something that can make the world a little bit better for everyone.",
+    "image": "profilepic.jpg",
+    "bio": "I'm not someone who found a way to solve a problem. I'm someone who just wants to make something that can make the world a little bit better for everyone. I wasn't the smartest person in any of my classes, However I work hard. I don't have that throught process anymore of \"I should do this\", \"I need to do that\", I think in the sense of \"I have to do this\", \"I have to get this done\". This is the thought process and work ethic that defines me. I don't care how hard something is, I'm going to get it done.",
+    "contactmessage": "Contact service not currently working, please reach out to me via call or text.",
+    "email": "brett@brettbass.com",
+    "phone": "(818) 620-1609",
+    "address": {
+      "street": "La Jolla",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92037"
+    },
+    "website": "http://www.brettbass.com",
+    "resumedownload": "http://brettbass.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/brett-bass-258775222/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/brett_bass_",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/BrettBass",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of California San Diego",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "December 2022",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Los Angeles Pierce College",
+        "degree": "Physics and Mathematics",
+        "graduated": "March 2003",
+        "description": "Pierce College to me was a place to start over and discover what I wanted to do in life. Once I discovered what I was passonate about, school became easy and exiting. The grind became meaningful and I redevelopped my work ethic and my love for the process."
+      }
+    ],
+    "work": [
+      {
+        "company": "Jacobs School of Engineering",
+        "title": "Computer Support Assistant",
+        "years": "December 2021 - Present",
+        "description": "Responsible for front-line user support for production computing facilities in the Jabobs School Dean's Office, academic departments, and affiliated laboratories, centers, and institutes."
+      },
+      {
+        "company": "University of California San Diego Information Technology Services", 
+        "title": "Computer Support Assistant",
+        "years": "January 2022 - current",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Latex",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "R",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "When something is important enough, you do it even if the odds are not in your favor.",
+        "user": "Elon Musk"
+      },
+      {
+        "text": "As I get older, I realize being wrong isn't a bad thing like they teach you in schol. It is an opportunity to learn something.",
+        "user": "Richard Feynman"
+      }
+    ]
+  }
+}
